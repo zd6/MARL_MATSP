@@ -1,0 +1,25 @@
+{
+    "map":
+     {
+         "lx": 20,
+         "ly": 20
+     },
+    "elements":
+     {
+         "NUM_AGENT": 2,
+         "NUM_FLAG": 4
+     },
+    "control":
+     {
+         "MAX_STEP": 150
+     },
+    "communication":
+     {
+         "COM_FREQUENCY": 5
+     },
+    "settings":
+     {
+         "STOCH": 0, 
+         "ERROR_RATE" : 0.05
+     }
+}
